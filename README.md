@@ -1,7 +1,11 @@
 # zenAPI
 
 # What is API?
-Are you learning programming and wondering what an API is? An API is an Application Programming Interface that allows different software or systems to communicate with one another. This is 2 files of simple API made with python and Flask. It will take you 5 minutes to type the code or to think a new one.
+Are you learning programming and wondering what an API is? An API is an Application Programming Interface that allows different software or systems to communicate with each other. This is 2 files of simple API made with python and Flask. It will take you 5 minutes to type the code or to think a new one.
+
+## Things that you need to have before starting
+
+Firstly you need to have installed python, Postman and Visual Studio Code. Now open Visual Stuido Code make a new terminal and type ```pip install flask```. Now this should install the framework for you but if you are on MAC or Linux you may want to try the ```pip3``` command if pip is not working for you.
 
 ## How to test it?
 
@@ -16,6 +20,10 @@ Download the **Postman app**, then start debugging the API from Visual Studio Co
 
 Now if you see the same on the other white paragraph that means this is working succesfully.
 So thats a good tool that you can use to test out your APIs as you continue to do more development.
+
+## What is Flask
+
+Flask is a micro web framework for Python. It's very popular for doing web development and for creating APIs.
 
 ## Authors
 
